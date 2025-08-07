@@ -1,0 +1,250 @@
+Added Component: Designator=C?(Capacitor_470uF)
+Added Component: Designator=C?(CAP_100uF)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS40/DSANUWW008853.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.79mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1210YD107MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-1210YD107MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/1210YD107MAT2A?qs=dTuOkNN7mNJArH0RUYK6ig%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Capacitor_SMD_0805_Generic)
+Added Component: Designator=CAN_RX?(TestPoint)
+Added Component: Designator=CAN_TJA?(TJA1050T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TJA1050T/CM,118/NXP%20USA%20Inc./view-part/304529/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TJA1050T/CM,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TJA1050T/CM,118/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TJA1050T/CM,118/NXP%20USA%20Inc./view-part/304529/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN_TX?(TestPoint)
+Added Component: Designator=D?(ONSC-AXIAL_LEAD-2-267-05_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MUR420-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/267-05.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 5.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-267-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MUR460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ultrafast"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "600"; VariantName = "[No Variations]"
+Added Component: Designator=D?(ONSC-AXIAL_LEAD-2-267-05_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MUR420-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/267-05.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 5.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-267-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MUR460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ultrafast"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "600"; VariantName = "[No Variations]"
+Added Component: Designator=D?(ONSC-AXIAL_LEAD-2-267-05_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MUR420-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/267-05.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 5.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-267-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MUR460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ultrafast"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "600"; VariantName = "[No Variations]"
+Added Component: Designator=D?(1N5819HW-7-F)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123 Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N5819HW-7-F/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(ONSC-AXIAL_LEAD-2-267-05_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MUR420-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/267-05.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 5.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-267-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MUR460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ultrafast"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "600"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOAD1586W101L900D530)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1.5KE16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F?(MFRX375720)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MF-RX375/72-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mf-rx37572-0/bourns?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MF-RX375_72-0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "29.51mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MF-RX375/72-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-MF-RX375/72-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/MF-RX375-72-0?qs=9FzDyaD7ZFD00YfbCcBudg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L?(INDP125125X600N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "SRR1260-680MCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/bourns-inc/SRR1260-680M/SRR1260-680MCT-ND/2127423?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SRR1260-680M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SRR1260-680M/Bourns/view-part/337191/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PCAN?(PEDS1CAN)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PESD1CAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-323 Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PESD1CAN/Nexperia%20USA%20Inc./view-part/2164340/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=SJ?(SolderJumpBridge)
+Added Component: Designator=SW?(Switch_Slide)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MLL1200S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP_CH?(TestPoint)
+Added Component: Designator=TP_CL?(TestPoint)
+Added Component: Designator=U?(AZ34063UMTR-G1)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=PD1 Pin=CAN_RX?-1
+Added Pin To Net: NetName=PD0 Pin=CAN_TJA?-1
+Added Pin To Net: NetName=GND Pin=CAN_TJA?-2
+Added Pin To Net: NetName=PD1 Pin=CAN_TJA?-4
+Added Pin To Net: NetName=GND Pin=CAN_TJA?-8
+Added Pin To Net: NetName=PD0 Pin=CAN_TX?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=PCAN?-3
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=VIN Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-G1
+Added Pin To Net: NetName=GND Pin=SW?-G2
+Added Pin To Net: NetName=GND Pin=SW?-G3
+Added Pin To Net: NetName=GND Pin=SW?-G4
+Added Pin To Net: NetName=GND Pin=TP?-1
+Added Pin To Net: NetName=VIN Pin=TP?-1
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=+5 Pin=CAN_TJA?-3
+Added Net: Name=+5
+Added Pin To Net: NetName=12v_INPUT Pin=D?-1
+Added Pin To Net: NetName=12v_INPUT Pin=D?-1
+Added Pin To Net: NetName=12v_INPUT Pin=F?-1
+Added Pin To Net: NetName=12v_INPUT Pin=TP?-1
+Added Net: Name=12v_INPUT
+Added Pin To Net: NetName=12v_IN Pin=C?-2
+Added Pin To Net: NetName=12v_IN Pin=D?-C
+Added Pin To Net: NetName=12v_IN Pin=F?-2
+Added Pin To Net: NetName=12v_IN Pin=R?-2
+Added Pin To Net: NetName=12v_IN Pin=TP?-1
+Added Pin To Net: NetName=12v_IN Pin=U?-6
+Added Net: Name=12v_IN
+Added Pin To Net: NetName=CANH Pin=CAN_TJA?-7
+Added Pin To Net: NetName=CANH Pin=PCAN?-1
+Added Pin To Net: NetName=CANH Pin=R?-2
+Added Pin To Net: NetName=CANH Pin=TP_CH?-1
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=CAN_TJA?-6
+Added Pin To Net: NetName=CANL Pin=PCAN?-2
+Added Pin To Net: NetName=CANL Pin=SJ?-1
+Added Pin To Net: NetName=CANL Pin=TP_CL?-1
+Added Net: Name=CANL
+Added Pin To Net: NetName=Car_Battery_Input Pin=D?-1
+Added Pin To Net: NetName=Car_Battery_Input Pin=D?-2
+Added Pin To Net: NetName=Car_Battery_Input Pin=TP?-1
+Added Net: Name=Car_Battery_Input
+Added Pin To Net: NetName=COMP_INVERT_INPUT Pin=R?-1
+Added Pin To Net: NetName=COMP_INVERT_INPUT Pin=R?-1
+Added Pin To Net: NetName=COMP_INVERT_INPUT Pin=TP?-1
+Added Pin To Net: NetName=COMP_INVERT_INPUT Pin=U?-5
+Added Net: Name=COMP_INVERT_INPUT
+Added Pin To Net: NetName=EMITTER Pin=D?-C
+Added Pin To Net: NetName=EMITTER Pin=L?-2
+Added Pin To Net: NetName=EMITTER Pin=TP?-1
+Added Pin To Net: NetName=EMITTER Pin=U?-2
+Added Net: Name=EMITTER
+Added Pin To Net: NetName=Negative_Battery_Input Pin=D?-1
+Added Pin To Net: NetName=Negative_Battery_Input Pin=D?-2
+Added Pin To Net: NetName=Negative_Battery_Input Pin=TP?-1
+Added Net: Name=Negative_Battery_Input
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=TP?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-7
+Added Pin To Net: NetName=NetR?_1 Pin=U?-8
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=TIME_CAP Pin=C?-1
+Added Pin To Net: NetName=TIME_CAP Pin=TP?-1
+Added Pin To Net: NetName=TIME_CAP Pin=U?-3
+Added Net: Name=TIME_CAP
+Added Pin To Net: NetName=Vout Pin=C?-1
+Added Pin To Net: NetName=Vout Pin=L?-1
+Added Pin To Net: NetName=Vout Pin=R?-2
+Added Pin To Net: NetName=Vout Pin=SW?-1
+Added Pin To Net: NetName=Vout Pin=TP?-1
+Added Net: Name=Vout
+Added Class: Name=U_12V_Regulator
+Added Class: Name=U_CAN_TJA1050_Page1
+Added Rule: Name=Schematic Supply Nets_4

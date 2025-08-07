@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=U_ST_LINK_V3E Member=J?
+Removed Member From Class: ClassName=U_12V_Regulator Member=L1
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=L1 NewDesignator=L?
+Added Member To Class: ClassName=U_ST_LINK_V3E Member=Component D1 CG0603MLC-3.3LE
+Added Member To Class: ClassName=U_ST_LINK_V3E Member=Component D2 CG0603MLC-3.3LE
+Added Member To Class: ClassName=U_ST_LINK_V3E Member=Component D3 CG0603MLC-3.3LE
+Added Member To Class: ClassName=U_ST_LINK_V3E Member=Component J1 TSW-106-07-G-S
+Added Member To Class: ClassName=U_12V_Regulator Member=Component L? 220uH

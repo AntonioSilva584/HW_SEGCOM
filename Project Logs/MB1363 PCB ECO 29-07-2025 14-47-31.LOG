@@ -1,0 +1,56 @@
+Added Component: Designator=CAN_TJA?(TJA1050T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TJA1050T/CM,118/NXP%20USA%20Inc./view-part/304529/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NXP USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TJA1050T/CM,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TJA1050T/CM,118/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TJA1050T/CM,118/NXP%20USA%20Inc./view-part/304529/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(PEDS1CAN)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PESD1CAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-323 Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PESD1CAN/Nexperia%20USA%20Inc./view-part/2164340/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=SJ?(SolderJumpBridge)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Pin To Net: NetName=GND Pin=CAN_TJA?-2
+Added Pin To Net: NetName=GND Pin=CAN_TJA?-8
+Added Pin To Net: NetName=GND Pin=D?-3
+Added Pin To Net: NetName=+5 Pin=CAN_TJA?-3
+Added Net: Name=+5
+Added Pin To Net: NetName=CANH Pin=CAN_TJA?-7
+Added Pin To Net: NetName=CANH Pin=D?-1
+Added Pin To Net: NetName=CANH Pin=R?-2
+Added Pin To Net: NetName=CANH Pin=TP?-1
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=CAN_TJA?-6
+Added Pin To Net: NetName=CANL Pin=D?-2
+Added Pin To Net: NetName=CANL Pin=SJ?-1
+Added Pin To Net: NetName=CANL Pin=TP?-1
+Added Net: Name=CANL
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=SJ?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=RX_CAN Pin=CAN_TJA?-4
+Added Pin To Net: NetName=RX_CAN Pin=TP?-1
+Added Net: Name=RX_CAN
+Added Pin To Net: NetName=TX_CAN Pin=CAN_TJA?-1
+Added Pin To Net: NetName=TX_CAN Pin=TP?-1
+Added Net: Name=TX_CAN
+Added Member To Class: ClassName=SEGCOM_Components Member=Component CAN_TJA? TJA1050T/CM,118
+Added Member To Class: ClassName=SEGCOM_Components Member=Component D? PESD5V2S2UT
+Added Member To Class: ClassName=SEGCOM_Components Member=Component R? 120O
+Added Member To Class: ClassName=SEGCOM_Components Member=Component SJ?
+Added Member To Class: ClassName=SEGCOM_Components Member=Component TP?
+Added Member To Class: ClassName=SEGCOM_Components Member=Component TP?
+Added Member To Class: ClassName=SEGCOM_Components Member=Component TP?
+Added Member To Class: ClassName=SEGCOM_Components Member=Component TP?

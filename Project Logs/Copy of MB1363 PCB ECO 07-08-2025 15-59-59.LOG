@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=CANL Pin=SJ?-1
+Removed Member From Class: ClassName=U_CAN_TJA1050_Page1 Member=R?
+Removed Member From Class: ClassName=U_CAN_TJA1050_Page1 Member=SJ?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=CAN_TJA? NewDesignator=TJA1050
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=DP1
+Change Component Designator: OldDesignator=D? NewDesignator=DP2
+Change Component Designator: OldDesignator=D? NewDesignator=DP3
+Change Component Designator: OldDesignator=D? NewDesignator=DP4
+Change Component Designator: OldDesignator=D? NewDesignator=DP5
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=PCAN? NewDesignator=PCAN
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=Rcan
+Change Component Designator: OldDesignator=SW? NewDesignator=SW
+Change Component Designator: OldDesignator=TP? NewDesignator=5V
+Change Component Designator: OldDesignator=TP? NewDesignator=12V
+Change Component Designator: OldDesignator=TP? NewDesignator=12VBAT
+Change Component Designator: OldDesignator=TP? NewDesignator=B+
+Change Component Designator: OldDesignator=TP? NewDesignator=B-
+Change Component Designator: OldDesignator=TP? NewDesignator=GND
+Change Component Designator: OldDesignator=TP? NewDesignator=TP
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=TP? NewDesignator=Vin5v
+Change Component Designator: OldDesignator=TP_CH? NewDesignator=TP_CH
+Change Component Designator: OldDesignator=TP_CL? NewDesignator=TP_CL
+Added Pin To Net: NetName=CANL Pin=Rcan-1
+Added Pin To Net: NetName=5V Pin=TJA1050-3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR3_1
+Added Member To Class: ClassName=U_12V_Regulator Member=Component 5V
+Added Member To Class: ClassName=U_12V_Regulator Member=Component 12VBAT
+Added Member To Class: ClassName=U_12V_Regulator Member=Component 12V
+Added Member To Class: ClassName=U_12V_Regulator Member=Component B+
+Added Member To Class: ClassName=U_12V_Regulator Member=Component B-
+Added Member To Class: ClassName=U_12V_Regulator Member=Component C1 100uF
+Added Member To Class: ClassName=U_12V_Regulator Member=Component C3 470uF
+Added Member To Class: ClassName=U_12V_Regulator Member=Component D6 1N5819HW-7-F
+Added Member To Class: ClassName=U_12V_Regulator Member=Component DP1 MUR460
+Added Member To Class: ClassName=U_12V_Regulator Member=Component DP2 MUR460
+Added Member To Class: ClassName=U_12V_Regulator Member=Component DP4 MUR460
+Added Member To Class: ClassName=U_12V_Regulator Member=Component DP5 1.5KE16A
+Added Member To Class: ClassName=U_12V_Regulator Member=Component GND
+Added Member To Class: ClassName=U_12V_Regulator Member=Component R1 3.6KO
+Added Member To Class: ClassName=U_12V_Regulator Member=Component R3 330mO
+Added Member To Class: ClassName=U_CAN_TJA1050_Page1 Member=Component Rcan 120O
+Added Member To Class: ClassName=U_12V_Regulator Member=Component TP2
+Added Member To Class: ClassName=U_12V_Regulator Member=Component TP3
+Added Member To Class: ClassName=U_12V_Regulator Member=Component TP?
+Added Member To Class: ClassName=U_12V_Regulator Member=Component Vin5v

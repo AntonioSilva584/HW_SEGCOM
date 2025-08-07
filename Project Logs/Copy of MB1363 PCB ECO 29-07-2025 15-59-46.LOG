@@ -1,0 +1,438 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=5V_USB_STLK Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=5V_USB_CHGR Pin=C3-2
+Removed Pin From Net: NetName=VDD Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=STLK_MCO Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=5V_USB_CHGR Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=VDD Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=RX_CAN Pin=CAN_RX-1
+Removed Pin From Net: NetName=TX_CAN Pin=CAN_TX-1
+Removed Pin From Net: NetName=5V_USB_CHGR Pin=CN1-1
+Removed Pin From Net: NetName=GND Pin=CN1-5
+Removed Pin From Net: NetName=GND Pin=CN1-6
+Removed Pin From Net: NetName=GND Pin=CN1-7
+Removed Pin From Net: NetName=GND Pin=CN1-8
+Removed Pin From Net: NetName=GND Pin=CN1-9
+Removed Pin From Net: NetName=GND Pin=CN1-10
+Removed Pin From Net: NetName=GND Pin=CN1-11
+Removed Pin From Net: NetName=GND Pin=CN2-3
+Removed Pin From Net: NetName=GND Pin=CN3-1
+Removed Pin From Net: NetName=GND Pin=CN3-2
+Removed Pin From Net: NetName=GND Pin=CN4-1
+Removed Pin From Net: NetName=GND Pin=CN4-2
+Removed Pin From Net: NetName=VDD Pin=CN5-3
+Removed Pin From Net: NetName=PA13 Pin=CN5-4
+Removed Pin From Net: NetName=GND Pin=CN5-5
+Removed Pin From Net: NetName=PA14 Pin=CN5-6
+Removed Pin From Net: NetName=GND Pin=CN5-7
+Removed Pin From Net: NetName=PA15 Pin=CN5-10
+Removed Pin From Net: NetName=NRST Pin=CN5-12
+Removed Pin From Net: NetName=T_VCP_RX Pin=CN5-13
+Removed Pin From Net: NetName=T_VCP_TX Pin=CN5-14
+Removed Pin From Net: NetName=5V_VIN Pin=D1-1
+Removed Pin From Net: NetName=5V_EXT Pin=D2-1
+Removed Pin From Net: NetName=5V_USB_CHGR Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=JP1-1
+Removed Pin From Net: NetName=NRST Pin=JP3-2
+Removed Pin From Net: NetName=GND Pin=LD4-1
+Removed Pin From Net: NetName=CANH Pin=PCAN-1
+Removed Pin From Net: NetName=CANL Pin=PCAN-2
+Removed Pin From Net: NetName=GND Pin=PCAN-3
+Removed Pin From Net: NetName=5V_USB_CHGR Pin=R1-2
+Removed Pin From Net: NetName=5V_USB_CHGR Pin=R2-2
+Removed Pin From Net: NetName=T_VCP_TX Pin=R3-1
+Removed Pin From Net: NetName=VDD Pin=R4-2
+Removed Pin From Net: NetName=STLK_MCO Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=PA13 Pin=R10-1
+Removed Pin From Net: NetName=PA14 Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=5V Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Pin From Net: NetName=VDD Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=T_VCP_RX Pin=R23-2
+Removed Pin From Net: NetName=CANH Pin=R120-2
+Removed Pin From Net: NetName=CANL Pin=SJ-1
+Removed Pin From Net: NetName=CANH Pin=TP_CH-1
+Removed Pin From Net: NetName=CANL Pin=TP_CL-1
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=VDD Pin=U1-8
+Removed Pin From Net: NetName=5V_USB_STLK Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=5V_USB_CHGR Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=5V_USB_CHGR Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U7-D5
+Removed Pin From Net: NetName=GND Pin=U7-D6
+Removed Pin From Net: NetName=GND Pin=U7-D7
+Removed Pin From Net: NetName=GND Pin=U7-D8
+Removed Pin From Net: NetName=GND Pin=U7-D9
+Removed Pin From Net: NetName=GND Pin=U7-F2
+Removed Pin From Net: NetName=GND Pin=U7-F6
+Removed Pin From Net: NetName=GND Pin=U7-F7
+Removed Pin From Net: NetName=GND Pin=U7-F8
+Removed Pin From Net: NetName=GND Pin=U7-F9
+Removed Pin From Net: NetName=GND Pin=U7-F10
+Removed Pin From Net: NetName=GND Pin=U7-F12
+Removed Pin From Net: NetName=GND Pin=U7-G2
+Removed Pin From Net: NetName=GND Pin=U7-G6
+Removed Pin From Net: NetName=GND Pin=U7-G7
+Removed Pin From Net: NetName=GND Pin=U7-G8
+Removed Pin From Net: NetName=GND Pin=U7-G9
+Removed Pin From Net: NetName=GND Pin=U7-G10
+Removed Pin From Net: NetName=GND Pin=U7-G12
+Removed Pin From Net: NetName=GND Pin=U7-H6
+Removed Pin From Net: NetName=GND Pin=U7-H7
+Removed Pin From Net: NetName=GND Pin=U7-H8
+Removed Pin From Net: NetName=GND Pin=U7-H9
+Removed Pin From Net: NetName=GND Pin=U7-H10
+Removed Pin From Net: NetName=GND Pin=U7-H12
+Removed Pin From Net: NetName=GND Pin=U7-J6
+Removed Pin From Net: NetName=GND Pin=U7-J7
+Removed Pin From Net: NetName=GND Pin=U7-J8
+Removed Pin From Net: NetName=GND Pin=U7-J9
+Removed Pin From Net: NetName=GND Pin=U7-J10
+Removed Pin From Net: NetName=GND Pin=U7-K6
+Removed Pin From Net: NetName=GND Pin=U7-K7
+Removed Pin From Net: NetName=GND Pin=U7-K8
+Removed Pin From Net: NetName=GND Pin=U7-K9
+Removed Pin From Net: NetName=GND Pin=U7-K10
+Removed Pin From Net: NetName=GND Pin=U7-M1
+Removed Pin From Net: NetName=GND Pin=U7-M8
+Removed Pin From Net: NetName=GND Pin=U7-M9
+Removed Pin From Net: NetName=GND Pin=U7-N1
+Removed Pin From Net: NetName=PA15 Pin=U8-1
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=PA14 Pin=U8-4
+Removed Pin From Net: NetName=PA13 Pin=U8-5
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=GND Pin=U10-4
+Removed Pin From Net: NetName=GND Pin=U10-5
+Removed Pin From Net: NetName=VDD Pin=U10-8
+Removed Pin From Net: NetName=T_VCP_RX Pin=U24-1
+Removed Pin From Net: NetName=GND Pin=U24-2
+Removed Pin From Net: NetName=T_VCP_TX Pin=U24-3
+Removed Pin From Net: NetName=NRST Pin=U24-5
+Removed Pin From Net: NetName=GND Pin=X1-2
+Added Component: Designator=C?(Capacitor_SMD_0805_Generic)
+Added Component: Designator=C?(Capacitor_SMD_0805_Generic)
+Added Component: Designator=C?(Capacitor_SMD_0805_Generic)
+Added Component: Designator=C?(CAP_100uF)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS40/DSANUWW008853.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.79mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1210YD107MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-1210YD107MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/1210YD107MAT2A?qs=dTuOkNN7mNJArH0RUYK6ig%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Capacitor_470uF)
+Added Component: Designator=C?(Capacitor_SMD_0805_Generic)
+Added Component: Designator=CAN_RX?(TestPoint)
+Added Component: Designator=CAN_TX?(TestPoint)
+Added Component: Designator=D?(ONSC-AXIAL_LEAD-2-267-05_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MUR420-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/267-05.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 5.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-267-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MUR460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ultrafast"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "600"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LEDC2012X120N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(ONSC-AXIAL_LEAD-2-267-05_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MUR420-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/267-05.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 5.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-267-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MUR460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ultrafast"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "600"; VariantName = "[No Variations]"
+Added Component: Designator=D?(ONSC-AXIAL_LEAD-2-267-05_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MUR420-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/267-05.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 5.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-267-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MUR460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ultrafast"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "600"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED_SSFLXH100HGW)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(1N5819HW-7-F)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123 Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N5819HW-7-F/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N5819HW-7-F/Diodes+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(ONSC-AXIAL_LEAD-2-267-05_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MUR420-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/267-05.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin, Axial Lead, Diameter 5.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL_LEAD-2-267-05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. G, 06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MUR460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ultrafast"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRRM Max (V)"; Value = "600"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIOAD1586W101L900D530)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1.5KE16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F?(MFRX375720)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MF-RX375/72-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mf-rx37572-0/bourns?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MF-RX375_72-0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "29.51mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MF-RX375/72-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-MF-RX375/72-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/MF-RX375-72-0?qs=9FzDyaD7ZFD00YfbCcBudg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L?(INDP125125X600N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "SRR1260-680MCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/bourns-inc/SRR1260-680M/SRR1260-680MCT-ND/2127423?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SRR1260-680M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SRR1260-680M/Bourns/view-part/337191/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PCAN?(PEDS1CAN)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PESD1CAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-323 Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PESD1CAN/Nexperia%20USA%20Inc./view-part/2164340/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=R?(Resistor_0805_Generic)
+Added Component: Designator=SJ?(SolderJumpBridge)
+Added Component: Designator=SW?(Switch_Slide)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MLL1200S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP?(TestPoint)
+Added Component: Designator=TP_CH?(TestPoint)
+Added Component: Designator=TP_CL?(TestPoint)
+Added Component: Designator=U?(AMS1117)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/Advanced+Monolithic+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Advanced Monolithic Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223 Seeed Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/Advanced+Monolithic+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(AZ34063UMTR-G1)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=RX_CAN Pin=CAN_RX?-1
+Added Pin To Net: NetName=TX_CAN Pin=CAN_TX?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=CANH Pin=PCAN?-1
+Added Pin To Net: NetName=CANL Pin=PCAN?-2
+Added Pin To Net: NetName=GND Pin=PCAN?-3
+Added Pin To Net: NetName=CANH Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=CANL Pin=SJ?-1
+Added Pin To Net: NetName=+5 Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-G1
+Added Pin To Net: NetName=GND Pin=SW?-G2
+Added Pin To Net: NetName=GND Pin=SW?-G3
+Added Pin To Net: NetName=GND Pin=SW?-G4
+Added Pin To Net: NetName=+5 Pin=TP?-1
+Added Pin To Net: NetName=GND Pin=TP?-1
+Added Pin To Net: NetName=CANH Pin=TP_CH?-1
+Added Pin To Net: NetName=CANL Pin=TP_CL?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+5 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=TP?-1
+Added Pin To Net: NetName=+3V3 Pin=U?-2
+Added Pin To Net: NetName=+3V3 Pin=U?-2
+Added Net: Name=+3V3
+Added Pin To Net: NetName=12v_INPUT Pin=D?-1
+Added Pin To Net: NetName=12v_INPUT Pin=D?-1
+Added Pin To Net: NetName=12v_INPUT Pin=F?-1
+Added Pin To Net: NetName=12v_INPUT Pin=TP?-1
+Added Net: Name=12v_INPUT
+Added Pin To Net: NetName=12v_IN Pin=C?-2
+Added Pin To Net: NetName=12v_IN Pin=D?-C
+Added Pin To Net: NetName=12v_IN Pin=F?-2
+Added Pin To Net: NetName=12v_IN Pin=R?-2
+Added Pin To Net: NetName=12v_IN Pin=TP?-1
+Added Pin To Net: NetName=12v_IN Pin=U?-6
+Added Net: Name=12v_IN
+Added Pin To Net: NetName=Car_Battery_Input Pin=D?-1
+Added Pin To Net: NetName=Car_Battery_Input Pin=D?-2
+Added Pin To Net: NetName=Car_Battery_Input Pin=TP?-1
+Added Net: Name=Car_Battery_Input
+Added Pin To Net: NetName=COMP_INVERT_INPUT Pin=R?-1
+Added Pin To Net: NetName=COMP_INVERT_INPUT Pin=R?-1
+Added Pin To Net: NetName=COMP_INVERT_INPUT Pin=TP?-1
+Added Pin To Net: NetName=COMP_INVERT_INPUT Pin=U?-5
+Added Net: Name=COMP_INVERT_INPUT
+Added Pin To Net: NetName=EMITTER Pin=D?-C
+Added Pin To Net: NetName=EMITTER Pin=L?-2
+Added Pin To Net: NetName=EMITTER Pin=TP?-1
+Added Pin To Net: NetName=EMITTER Pin=U?-2
+Added Net: Name=EMITTER
+Added Pin To Net: NetName=Negative_Battery_Input Pin=D?-1
+Added Pin To Net: NetName=Negative_Battery_Input Pin=D?-2
+Added Pin To Net: NetName=Negative_Battery_Input Pin=TP?-1
+Added Net: Name=Negative_Battery_Input
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=TP?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-7
+Added Pin To Net: NetName=NetR?_1 Pin=U?-8
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=PWR_LED Pin=D?-1
+Added Pin To Net: NetName=PWR_LED Pin=D?-1
+Added Pin To Net: NetName=PWR_LED Pin=R?-2
+Added Net: Name=PWR_LED
+Added Pin To Net: NetName=SWO Pin=SB50-1
+Added Net: Name=SWO
+Added Pin To Net: NetName=TIME_CAP Pin=C?-1
+Added Pin To Net: NetName=TIME_CAP Pin=TP?-1
+Added Pin To Net: NetName=TIME_CAP Pin=U?-3
+Added Net: Name=TIME_CAP
+Added Pin To Net: NetName=Vout Pin=C?-1
+Added Pin To Net: NetName=Vout Pin=L?-1
+Added Pin To Net: NetName=Vout Pin=R?-2
+Added Pin To Net: NetName=Vout Pin=SW?-1
+Added Pin To Net: NetName=Vout Pin=TP?-1
+Added Net: Name=Vout
+Added Class: Name=CanTransceiver
+Added Class: Name=PowerSupply
+Added Rule: Name=Schematic Supply Nets_28

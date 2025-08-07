@@ -1,0 +1,109 @@
+Change component parameters: Designator = "U14" ("U14"); Footprint = "ICC_LQFP144_20X20_P050_SOCKET_YAMAICHI_IC149-144-145-B5_NM"; UniqueID = "\OUWECVDB\UIWQTVTY\KXMAJXNK" ("\OUWECVDB\UIWQTVTY\KXMAJXNK")
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = "9175297 (cut 2.0)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/IC/STM_STM32L552ZET6QU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "NEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "3A991A2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-01401"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H745ZIT6U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP144 20x20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "SUBCO with ST control"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32H745ZIT6U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = "9175297 (cut 2.0)"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/IC/STM_STM32L552ZET6QU"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "NEC"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "3A991A2"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-01401"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H745ZIT6U"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP144 20x20"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "IC"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "SUBCO with ST control"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32H745ZIT6U"; VariantName = "H745ZIQ"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = "9175298 (cut 2.0)"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/IC/STM_STM32L552ZET6QU"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "5A002A4"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "5A002A4"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-01402"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H755ZIT6U"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP144 20x20"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "IC"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "SUBCO with ST control"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32H755ZIT6U"; VariantName = "H755ZIQ"
+Change component parameters (AddParameter): Name = "BMS_Part_Number"; Value = "9175346"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://tunmcdsvn.tun.st.com/Component_Datasheet_Library/Trunk/IC/STM_STM32L552ZET6QU"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "ECCN_EU"; Value = "NEC"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "ECCN_US"; Value = "3A991A2"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "Internal_Part_Number"; Value = "MCD-01360"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H7A3ZIT6QU"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP144 20x20"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "Part_Type"; Value = "IC"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "Provided_By"; Value = "SUBCO with ST control"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "Status"; Value = "Released"; VariantName = "H7A3ZIQ"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32H7A3ZIT6QU"; VariantName = "H7A3ZIQ"
+Added Class: Name=U_Connectors
+Added Class: Name=U_Ethernet
+Added Class: Name=U_MCU_144_IOs
+Added Class: Name=U_MCU_144_POWER
+Added Class: Name=U_Power_Board
+Added Class: Name=U_ST_LINK_V3E
+Added Class: Name=U_USB
+Added Class: Name=PA[0..15]
+Added Class: Name=PB[0..15]
+Added Class: Name=PC[0..15]
+Added Class: Name=PD[0..15]
+Added Class: Name=PE[0..15]
+Added Class: Name=PF[6..15]
+Added Class: Name=PG[6..14]
+Added Class: Name=PH[0..1]
+Added Room: Name=U_Connectors
+Added Room: Name=U_Ethernet
+Added Room: Name=U_MCU_144_IOs
+Added Room: Name=U_MCU_144_POWER
+Added Room: Name=U_Power_Board
+Added Room: Name=U_ST_LINK_V3E
+Added Room: Name=U_USB
+Added Rule: Name=Schematic Impedance Constraint_4
+Added Rule: Name=Schematic Impedance Constraint_5
+Added Rule: Name=Schematic Impedance Constraint_6
+Added Rule: Name=Schematic Matched Net Lengths
+Added Rule: Name=Schematic Matched Net Lengths_1
+Added Rule: Name=Schematic Matched Net Lengths_2
+Added Rule: Name=Schematic Matched Net Lengths_3
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14
+Added Rule: Name=Schematic Supply Nets_15
+Added Rule: Name=Schematic Supply Nets_16
+Added Rule: Name=Schematic Supply Nets_17
+Added Rule: Name=Schematic Supply Nets_18
+Added Rule: Name=Schematic Supply Nets_19
+Added Rule: Name=Schematic Supply Nets_20
+Added Rule: Name=Schematic Supply Nets_21
+Added Rule: Name=Schematic Supply Nets_22
+Added Rule: Name=Schematic Supply Nets_23
+Added Rule: Name=Schematic Supply Nets_24
+Added Rule: Name=Schematic Supply Nets_25
+Added Rule: Name=Schematic Supply Nets_26

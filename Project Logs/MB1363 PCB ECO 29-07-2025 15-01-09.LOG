@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=D? NewDesignator=PCAN
+Change Component Designator: OldDesignator=R? NewDesignator=R120
+Change Component Designator: OldDesignator=SJ? NewDesignator=SJ
+Change Component Designator: OldDesignator=TP? NewDesignator=CAN_RX
+Change Component Designator: OldDesignator=TP? NewDesignator=CAN_TX
+Change Component Designator: OldDesignator=TP? NewDesignator=TP_CH
+Change Component Designator: OldDesignator=TP? NewDesignator=TP_CL
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR120_1
+Added Member To Class: ClassName=SEGCOM_Components Member=Component CAN_RX
+Added Member To Class: ClassName=SEGCOM_Components Member=Component CAN_TX
+Added Member To Class: ClassName=SEGCOM_Components Member=Component TP_CH
