@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=PA14 Pin=D1-1
+Added Pin To Net: NetName=PA13 Pin=D2-1
+Added Pin To Net: NetName=NRST Pin=D3-1
+Added Pin To Net: NetName=T_SWO Pin=D4-1
+Added Pin To Net: NetName=PA14 Pin=J1-2
+Added Pin To Net: NetName=PA13 Pin=J1-4
+Added Pin To Net: NetName=NRST Pin=J1-5
+Added Pin To Net: NetName=T_SWO Pin=J1-6
+Change Net Name : Old Net Name=NRST New Net Name=CPU_RST
