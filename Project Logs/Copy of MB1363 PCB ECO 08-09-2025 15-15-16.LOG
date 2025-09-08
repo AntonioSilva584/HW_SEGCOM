@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PB10 Pin=SERIAL-1
+Removed Pin From Net: NetName=GND Pin=SERIAL-3
+Added Pin To Net: NetName=GND Pin=SERIAL-1
+Added Pin To Net: NetName=PB10 Pin=SERIAL-3
