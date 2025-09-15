@@ -1,0 +1,85 @@
+Protel Design System Design Rule Check
+PCB File : D:\Users\anton\Documents\LIVE\00_Segcom\00_Documentaçoes\MCU\MB1363-D01\Copy of MB1363.PcbDoc
+Date     : 15/09/2025
+Time     : 16:10:40
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_STLK_W200-ISO200')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_VCP_ISO300')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L03_P092')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L01_P090')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_USB_DIFF_90R')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.3mm) Between Area Fill (41.475mm,86.204mm) (43.041mm,87.5mm) on Bottom Layer And Pad SB19-2(42.391mm,86.529mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.12mm) Between Area Fill (41.475mm,86.204mm) (43.041mm,87.5mm) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.3mm) Between Area Fill (41.475mm,86.204mm) (43.041mm,87.5mm) on Bottom Layer And Track (42.391mm,86.529mm)(43.741mm,86.529mm) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.12mm) Between Pad SB19-2(42.391mm,86.529mm) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.12mm) Between Region (0 hole(s)) Bottom Layer And Track (42.391mm,86.529mm)(43.741mm,86.529mm) on Bottom Layer 
+Rule Violations :5
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_RMII_SINGLE_50R')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.12mm) (InNetClass('NC_RXTX_DIFF_100R')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L03_P094')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L01_P024')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L04_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L06_P114')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L06_P112')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L03_P098')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L03_P096')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L04_P106')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (InNamedPolygon('GND_L04_P102')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad SB19-2(42.391mm,86.529mm) on Bottom Layer And Region (0 hole(s)) Bottom Layer Location : [X = 1304.874mm][Y = 992.253mm]
+   Violation between Short-Circuit Constraint: Between Region (0 hole(s)) Bottom Layer And Track (42.391mm,86.529mm)(43.741mm,86.529mm) on Bottom Layer Location : [X = 1305.093mm][Y = 992.253mm]
+Rule Violations :2
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (All),(All) 
+Rule Violations :0
+
+
+Violations Detected : 7
+Waived Violations : 0
+Time Elapsed        : 00:00:01
